@@ -12,7 +12,7 @@
 * 👨‍💻 &nbsp;I’m currently deep diving into full stack Development.
 * 💬 &nbsp;Interested in Open Source.
 * <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25">I love to **make friends**. So if you want to say hi, I'll be happy to meet you more!😊
-- ⚡ Cool fact **I am Guitarist**
+* ⚡ Cool fact **I am Guitarist**
 
 
 <!-- My contacts -->

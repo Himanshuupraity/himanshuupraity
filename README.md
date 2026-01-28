@@ -8,8 +8,8 @@
 ## 👨‍💻 Know Me:
 
 * 🏫 &nbsp;I'm a B.Tech ECE'22 student at [Raja Balwant Singh Engineering Technical Campus](https://rbscollegeagra.edu.in/).
-* 👀 &nbsp;I have 2.5 years of experience in modem testing from [Marquis Technologies Pvt Ltd](https://www.marquistech.com/)...
-* 👨‍💻 &nbsp;I’m currently deep diving into full stack Development.
+* 👀 &nbsp;I have 3+ years of experience in testing.
+* 👨‍💻 &nbsp;I’m currently deep diving into Manual & automation testing with frontend Development.
 * 💬 &nbsp;Interested in Open Source.
 * <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25">I love to **make friends**. So if you want to say hi, I'll be happy to meet you more!😊
 * ⚡ Cool fact **I am Guitarist**

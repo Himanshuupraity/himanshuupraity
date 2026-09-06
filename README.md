@@ -7,16 +7,11 @@
   <img alt="GitHub Jet Heatmap" src="https://raw.githubusercontent.com/Himanshuupraity/himanshuupraity/main/jet-heatmap.svg" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, I'm Himanshu upraity</h1>
-<h3 align="center">AI Engineer @ CosX · Software Engineer · QA Automation</h3/>
+<p align="center">
+  <img alt="Himanshu Upraity — AI Engineer, Software Engineer, QA Automation Engineer" src="https://raw.githubusercontent.com/Himanshuupraity/himanshuupraity/main/dark.svg" width="100%">
+</p>
 
 <div align="center">
-
-<a href="https://github.com/Himanshuupraity">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1200&color=8B5CF6&center=true&vCenter=true&random=false&width=840&height=70&lines=AI+Engineer+%40+CosX.ai;Software+Engineer+%7C+Full+Stack+Developer;QA+Automation+Engineer+%7C+Playwright+%2B+Selenium;React+%C2%B7+Python+%C2%B7+Django+%C2%B7+SQL" alt="Typing SVG" />
-</a>
-
-<br/>
 
 <img src="https://img.shields.io/badge/M.Tech-Electronics%20%26%20Communication%20Engineering-7C3AED?style=for-the-badge&labelColor=0D1117&logo=googlescholar&logoColor=A78BFA" />
 <img src="https://img.shields.io/badge/B.Tech-Electronics%20%26%20Communication%20Engineering-6366F1?style=for-the-badge&labelColor=0D1117&logo=googlescholar&logoColor=A78BFA" />

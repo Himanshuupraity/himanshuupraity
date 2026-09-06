@@ -13,16 +13,6 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/M.Tech-Electronics%20%26%20Communication%20Engineering-7C3AED?style=for-the-badge&labelColor=0D1117&logo=googlescholar&logoColor=A78BFA" />
-<img src="https://img.shields.io/badge/B.Tech-Electronics%20%26%20Communication%20Engineering-6366F1?style=for-the-badge&labelColor=0D1117&logo=googlescholar&logoColor=A78BFA" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Ducat%20IT%20Training%20School-Information%20Technology-8B5CF6?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Agra%2C%20Uttar%20Pradesh%2C%20India-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=A78BFA&labelColor=0D1117" />
-
-<br/><br/>
-
 <a href="https://himanshu-video-portfolio.vercel.app/">
   <img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=EDE9FE&labelColor=0D1117" height="34" />
 </a>

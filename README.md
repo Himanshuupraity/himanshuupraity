@@ -50,14 +50,6 @@
 </div>
 
 
-
-
-<!-- About Me -->
-# 💫 About Me:
-🏫  I'm an AI Engineer at CosX, working on testing, system reliability and frontend quality for AI-driven products.<br>👀  4+ years across QA automation and full-stack development — Playwright, Selenium, React.js, Python/Django.<br>👨‍💻  M.Tech in Electronics & Communication Engineering (MUIT, 2024); B.Tech ECE (R.B.S. College, Agra, 2022).<br>💬  Interested in Open Source.<br>⚡ Cool fact I am Guitarist
-
-
-
 <div align="center">
 
 ### Open To
@@ -127,13 +119,6 @@
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Himanshuupraity&theme=aura&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Himanshuupraity&theme=aura&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshuupraity&theme=aura&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
----
-
 <div align="center">
 
 ## Connect
@@ -157,9 +142,5 @@
 [![](https://visitcount.itsvg.in/api?id=Himanshuupraity&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
-
 
 

@@ -1,3 +1,7 @@
+<p align="center">
+  <img alt="Himanshu Upraity — terminal profile card" src="https://raw.githubusercontent.com/Himanshuupraity/himanshuupraity/main/profile-card.svg" width="100%">
+</p>
+
 ![logo](https://github.com/Himanshuupraity/himanshuupraity/blob/main/Black%20and%20Red%20Gradient%20Professional%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Himanshu upraity</h1>
 <h3 align="center">A passionate Software developer and Tester from India</h3/>

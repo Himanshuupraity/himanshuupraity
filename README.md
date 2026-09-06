@@ -10,6 +10,46 @@
 <h1 align="center">Hi 👋, I'm Himanshu upraity</h1>
 <h3 align="center">AI Engineer @ CosX · Software Engineer · QA Automation</h3/>
 
+<div align="center">
+
+<a href="https://github.com/Himanshuupraity">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1200&color=8B5CF6&center=true&vCenter=true&random=false&width=840&height=70&lines=AI+Engineer+%40+CosX.ai;Software+Engineer+%7C+Full+Stack+Developer;QA+Automation+Engineer+%7C+Playwright+%2B+Selenium;React+%C2%B7+Python+%C2%B7+Django+%C2%B7+SQL" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/M.Tech-Electronics%20%26%20Communication%20Engineering-7C3AED?style=for-the-badge&labelColor=0D1117&logo=googlescholar&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/B.Tech-Electronics%20%26%20Communication%20Engineering-6366F1?style=for-the-badge&labelColor=0D1117&logo=googlescholar&logoColor=A78BFA" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Ducat%20IT%20Training%20School-Information%20Technology-8B5CF6?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Agra%2C%20Uttar%20Pradesh%2C%20India-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=A78BFA&labelColor=0D1117" />
+
+<br/><br/>
+
+<a href="https://github.com/Himanshuupraity">
+  <img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=EDE9FE&labelColor=0D1117" height="34" />
+</a>
+<a href="https://www.linkedin.com/in/himanshuupraity">
+  <img src="https://img.shields.io/badge/LINKEDIN-6366F1?style=for-the-badge&logo=linkedin&logoColor=EDE9FE&labelColor=0D1117" height="34" />
+</a>
+<a href="mailto:himanshu.upraity.14.hk@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-8B5CF6?style=for-the-badge&logo=gmail&logoColor=EDE9FE&labelColor=0D1117" height="34" />
+</a>
+<a href="https://github.com/Himanshuupraity">
+  <img src="https://img.shields.io/badge/GITHUB-4C1D95?style=for-the-badge&logo=github&logoColor=EDE9FE&labelColor=0D1117" height="34" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Himanshuupraity&label=PROFILE%20VIEWS&color=8b5cf6&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/Himanshuupraity?label=FOLLOWERS&style=for-the-badge&color=6366F1&labelColor=0D1117&logo=github&logoColor=A78BFA" />
+<img src="https://img.shields.io/github/stars/Himanshuupraity?label=TOTAL%20STARS&style=for-the-badge&color=7C3AED&labelColor=0D1117&logo=github&logoColor=A78BFA" />
+
+</div>
+
+
 
 
 <!-- About Me -->
@@ -17,15 +57,101 @@
 🏫  I'm an AI Engineer at CosX, working on testing, system reliability and frontend quality for AI-driven products.<br>👀  4+ years across QA automation and full-stack development — Playwright, Selenium, React.js, Python/Django.<br>👨‍💻  M.Tech in Electronics & Communication Engineering (MUIT, 2024); B.Tech ECE (R.B.S. College, Agra, 2022).<br>💬  Interested in Open Source.<br>⚡ Cool fact I am Guitarist
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/himanshuupraity) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:himanshu.upraity.14.hk@gmail.com) 
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=plastic&logo=Apache%20Maven&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=plastic&logo=playwright&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=plastic&logo=selenium&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
+<div align="center">
+
+### Open To
+
+<img src="https://img.shields.io/badge/AI%20Engineering%20Roles-7C3AED?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Software%20Engineering%20Roles-6366F1?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Full%20Stack%20Development-8B5CF6?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/QA%20Automation%20Engineering-4C1D95?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Open%20Source%20Contributions-5B21B6?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Freelance%20%26%20Consulting-6D28D9?style=flat-square&labelColor=0D1117" />
+
+</div>
+
+---
+
+<div align="center">
+
+## Tech Stack
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,js,html,css,cpp&theme=dark" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/SQL-4C1D95?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Bash-5B21B6?style=flat-square&labelColor=0D1117" />
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,redux,bootstrap,tailwind,html,css,figma&theme=dark" />
+
+### Backend & Databases
+
+<img src="https://skillicons.dev/icons?i=django,flask,nodejs,mysql,postgres,sqlite,mongodb&theme=dark" />
+
+### Testing & Automation
+
+<img src="https://skillicons.dev/icons?i=selenium,postman&theme=dark" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Playwright-4C1D95?style=flat-square&logo=playwright&logoColor=A78BFA&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/PyTest-5B21B6?style=flat-square&logo=pytest&logoColor=A78BFA&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/TestNG-6D28D9?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/JIRA-7C3AED?style=flat-square&logo=jira&logoColor=A78BFA&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Manual%20Testing-6366F1?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/API%20Testing-8B5CF6?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Android%20Testing-4C1D95?style=flat-square&logo=android&logoColor=A78BFA&labelColor=0D1117" />
+
+### Cloud, DevOps & Tooling
+
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,linux,docker,vercel&theme=dark" />
+
+### AI & Data
+
+<img src="https://skillicons.dev/icons?i=anaconda,sklearn&theme=dark" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Claude-4C1D95?style=flat-square&logo=anthropic&logoColor=A78BFA&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Prompt%20Engineering-5B21B6?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Pandas-6D28D9?style=flat-square&logo=pandas&logoColor=A78BFA&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/NumPy-7C3AED?style=flat-square&logo=numpy&logoColor=A78BFA&labelColor=0D1117" />
+
+</div>
+
+---
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Himanshuupraity&theme=aura&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Himanshuupraity&theme=aura&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshuupraity&theme=aura&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+<div align="center">
+
+## Connect
+
+<a href="mailto:himanshu.upraity.14.hk@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-4C1D95?style=for-the-badge&logo=gmail&logoColor=EDE9FE&labelColor=0D1117" height="38" />
+</a>
+<a href="https://www.linkedin.com/in/himanshuupraity">
+  <img src="https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=EDE9FE&labelColor=0D1117" height="38" />
+</a>
+<a href="https://github.com/Himanshuupraity">
+  <img src="https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=EDE9FE&labelColor=0D1117" height="38" />
+</a>
+<a href="https://github.com/Himanshuupraity">
+  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=EDE9FE&labelColor=0D1117" height="38" />
+</a>
+
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Himanshuupraity&icon=0&color=0)](https://visitcount.itsvg.in)

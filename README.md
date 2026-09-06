@@ -71,49 +71,81 @@
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,cpp&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" />
 
 <br/>
 
 <img src="https://img.shields.io/badge/SQL-4C1D95?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Bash-5B21B6?style=flat-square&labelColor=0D1117" />
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,redux,bootstrap,tailwind,html,css,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,js,html,css&theme=dark" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/UI%20Components-5B21B6?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/State%20Management-6D28D9?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Responsive%20Design-7C3AED?style=flat-square&labelColor=0D1117" />
 
 ### Backend & Databases
 
-<img src="https://skillicons.dev/icons?i=django,flask,nodejs,mysql,postgres,sqlite,mongodb&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,django&theme=dark" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/REST%20APIs-4C1D95?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/SQL%20Databases-5B21B6?style=flat-square&labelColor=0D1117" />
 
 ### Testing & Automation
 
-<img src="https://skillicons.dev/icons?i=selenium,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=selenium&theme=dark" />
 
 <br/>
 
 <img src="https://img.shields.io/badge/Playwright-4C1D95?style=flat-square&logo=playwright&logoColor=A78BFA&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/PyTest-5B21B6?style=flat-square&logo=pytest&logoColor=A78BFA&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/TestNG-6D28D9?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/JIRA-7C3AED?style=flat-square&logo=jira&logoColor=A78BFA&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Manual%20Testing-6366F1?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/API%20Testing-8B5CF6?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Android%20Testing-4C1D95?style=flat-square&logo=android&logoColor=A78BFA&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Manual%20Testing-5B21B6?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Functional%20Testing-6D28D9?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Regression%20Testing-7C3AED?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Usability%20Testing-8B5CF6?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Android%20App%20Testing-6366F1?style=flat-square&logo=android&logoColor=A78BFA&labelColor=0D1117" />
 
-### Cloud, DevOps & Tooling
+### QA Process & Strategy
 
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,linux,docker,vercel&theme=dark" />
+<img src="https://img.shields.io/badge/SDLC-4C1D95?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/STLC-5B21B6?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Agile%20%2F%20Scrum-6D28D9?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Waterfall-7C3AED?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Test%20Plans%20%26%20Strategy-8B5CF6?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Traceability%20Matrix%20(RTM)-6366F1?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Test%20Summary%20Reports-4C1D95?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Defect%20%26%20Root%20Cause%20Analysis-5B21B6?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Requirement%20Analysis-6D28D9?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Effort%20Estimation-7C3AED?style=flat-square&labelColor=0D1117" />
 
-### AI & Data
+### Telecom & Protocols
 
-<img src="https://skillicons.dev/icons?i=anaconda,sklearn&theme=dark" />
+<img src="https://img.shields.io/badge/LTE-4C1D95?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/VoLTE-5B21B6?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/IMS-6D28D9?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Call%20Flow%20Analysis-7C3AED?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Qualcomm-8B5CF6?style=flat-square&logo=qualcomm&logoColor=A78BFA&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/MediaTek-6366F1?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/IoT%20Testing-4C1D95?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Networking-5B21B6?style=flat-square&labelColor=0D1117" />
+
+### AI
+
+<img src="https://img.shields.io/badge/Claude-4C1D95?style=flat-square&logo=anthropic&logoColor=A78BFA&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/AI%20Product%20Testing-5B21B6?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/System%20Reliability-6D28D9?style=flat-square&labelColor=0D1117" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Claude-4C1D95?style=flat-square&logo=anthropic&logoColor=A78BFA&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Prompt%20Engineering-5B21B6?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Pandas-6D28D9?style=flat-square&logo=pandas&logoColor=A78BFA&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/NumPy-7C3AED?style=flat-square&logo=numpy&logoColor=A78BFA&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/JIRA-4C1D95?style=flat-square&logo=jira&logoColor=A78BFA&labelColor=0D1117" />
 
 </div>
 

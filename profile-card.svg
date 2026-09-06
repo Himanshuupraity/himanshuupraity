@@ -53,6 +53,7 @@
   <clipPath id="lc18"><rect x="500" y="422.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.82s" fill="freeze"/></rect></clipPath>
   <clipPath id="lc19"><rect x="500" y="444.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="2.94s" fill="freeze"/></rect></clipPath>
   <clipPath id="lc20"><rect x="500" y="466.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="3.05s" fill="freeze"/></rect></clipPath>
+  <clipPath id="lc21"><rect x="500" y="488.00" width="0" height="24"><animate attributeName="width" from="0" to="690" dur="0.38s" begin="3.17s" fill="freeze"/></rect></clipPath>
   <style>
     .ascii  { font-family: 'Courier New', Consolas, monospace; font-size: 5.2px; fill: url(#asciiGrad); letter-spacing: -0.15px; }
     .key    { font-family: 'Courier New', Consolas, monospace; font-size: 15px; fill: #22D3EE; font-weight: bold; }
@@ -186,15 +187,16 @@
   <g clip-path="url(#lc12)"><text x="520" y="0" fill="#dbeafe"><tspan x="520" y="306"><tspan class="cc">. </tspan><tspan class="key">Core</tspan><tspan class="cc">.</tspan><tspan class="key">Process</tspan><tspan class="cc">: .................... </tspan><tspan class="value">SDLC, STLC, Agile/Scrum</tspan></tspan></text></g>
   <g clip-path="url(#lc13)"><text x="520" y="0" fill="#dbeafe"><tspan x="520" y="328"><tspan class="cc">. </tspan></tspan></text></g>
   <g clip-path="url(#lc14)"><text x="520" y="0" fill="#dbeafe"><tspan x="520" y="350"><tspan class="accent">- Contact</tspan><tspan class="cc"> -————————————————————————————————————————————-—-</tspan></tspan></text></g>
-  <g clip-path="url(#lc15)"><text x="520" y="0" fill="#dbeafe"><tspan x="520" y="372"><tspan class="cc">. </tspan><tspan class="key">Grid</tspan><tspan class="cc">.</tspan><tspan class="key">Mail</tspan><tspan class="cc">: ................. </tspan><tspan class="value">himanshu.upraity.14.hk@gmail.com</tspan></tspan></text></g>
-  <g clip-path="url(#lc16)"><text x="520" y="0" fill="#dbeafe"><tspan x="520" y="394"><tspan class="cc">. </tspan><tspan class="key">Grid</tspan><tspan class="cc">.</tspan><tspan class="key">LinkedIn</tspan><tspan class="cc">: ............. </tspan><tspan class="value">himanshuupraity</tspan></tspan></text></g>
-  <g clip-path="url(#lc17)"><text x="520" y="0" fill="#dbeafe"><tspan x="520" y="416"><tspan class="cc">. </tspan><tspan class="key">Grid</tspan><tspan class="cc">.</tspan><tspan class="key">Github</tspan><tspan class="cc">: ............... </tspan><tspan class="value">Himanshuupraity</tspan></tspan></text></g>
-  <g clip-path="url(#lc18)"><text x="520" y="0" fill="#dbeafe"><tspan x="520" y="438"><tspan class="cc">. </tspan></tspan></text></g>
-  <g clip-path="url(#lc19)"><text x="520" y="0" fill="#dbeafe"><tspan x="520" y="460"><tspan class="accent">- Live Stats</tspan><tspan class="cc"> -————————————————————————————————————————————-—-</tspan></tspan></text></g>
-  <g clip-path="url(#lc20)"><text x="520" y="0" fill="#dbeafe"><tspan x="520" y="482"><tspan class="cc">. </tspan><tspan class="value">See live GitHub stats badges below in README ↓</tspan></tspan></text></g>
+  <g clip-path="url(#lc15)"><text x="520" y="0" fill="#dbeafe"><tspan x="520" y="372"><tspan class="cc">. </tspan><tspan class="key">Grid</tspan><tspan class="cc">.</tspan><tspan class="key">Mail</tspan><tspan class="cc">: .............. </tspan><tspan class="value">himanshu.upraity.14.hk@gmail.com</tspan></tspan></text></g>
+  <g clip-path="url(#lc16)"><text x="520" y="0" fill="#dbeafe"><tspan x="520" y="394"><tspan class="cc">. </tspan><tspan class="key">Grid</tspan><tspan class="cc">.</tspan><tspan class="key">Portfolio</tspan><tspan class="cc">: ......... </tspan><tspan class="value">himanshu-video-portfolio.vercel.app</tspan></tspan></text></g>
+  <g clip-path="url(#lc17)"><text x="520" y="0" fill="#dbeafe"><tspan x="520" y="416"><tspan class="cc">. </tspan><tspan class="key">Grid</tspan><tspan class="cc">.</tspan><tspan class="key">LinkedIn</tspan><tspan class="cc">: .......... </tspan><tspan class="value">himanshuupraity</tspan></tspan></text></g>
+  <g clip-path="url(#lc18)"><text x="520" y="0" fill="#dbeafe"><tspan x="520" y="438"><tspan class="cc">. </tspan><tspan class="key">Grid</tspan><tspan class="cc">.</tspan><tspan class="key">Github</tspan><tspan class="cc">: ............ </tspan><tspan class="value">Himanshuupraity</tspan></tspan></text></g>
+  <g clip-path="url(#lc19)"><text x="520" y="0" fill="#dbeafe"><tspan x="520" y="460"><tspan class="cc">. </tspan></tspan></text></g>
+  <g clip-path="url(#lc20)"><text x="520" y="0" fill="#dbeafe"><tspan x="520" y="482"><tspan class="accent">- More</tspan><tspan class="cc"> -————————————————————————————————————————————-—-</tspan></tspan></text></g>
+  <g clip-path="url(#lc21)"><text x="520" y="0" fill="#dbeafe"><tspan x="520" y="504"><tspan class="cc">. </tspan><tspan class="value">Full tech stack and profile links below in README ↓</tspan></tspan></text></g>
 
-  <rect x="522" y="467" width="9" height="16" class="cursor-blink" opacity="0">
-    <animate attributeName="opacity" values="0;0;1;0;1;0;1;0" keyTimes="0;0.01;0.02;0.3;0.5;0.7;0.85;1" dur="1.4s" begin="3.17s" repeatCount="indefinite"/>
+  <rect x="522" y="489" width="9" height="16" class="cursor-blink" opacity="0">
+    <animate attributeName="opacity" values="0;0;1;0;1;0;1;0" keyTimes="0;0.01;0.02;0.3;0.5;0.7;0.85;1" dur="1.4s" begin="3.28s" repeatCount="indefinite"/>
   </rect>
 </g>
 

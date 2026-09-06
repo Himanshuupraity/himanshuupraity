@@ -28,7 +28,7 @@
 
 <br/><br/>
 
-<a href="https://github.com/Himanshuupraity">
+<a href="https://himanshu-video-portfolio.vercel.app/">
   <img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=EDE9FE&labelColor=0D1117" height="34" />
 </a>
 <a href="https://www.linkedin.com/in/himanshuupraity">
@@ -164,7 +164,7 @@
 <a href="https://github.com/Himanshuupraity">
   <img src="https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=EDE9FE&labelColor=0D1117" height="38" />
 </a>
-<a href="https://github.com/Himanshuupraity">
+<a href="https://himanshu-video-portfolio.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=EDE9FE&labelColor=0D1117" height="38" />
 </a>
 

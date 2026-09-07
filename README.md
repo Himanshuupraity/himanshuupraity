@@ -2,7 +2,7 @@
   <img alt="Himanshu Upraity — terminal profile card" src="https://raw.githubusercontent.com/Himanshuupraity/himanshuupraity/main/profile-card.svg" width="100%">
 </p>
 
-# ✈️ GitHub Jet Heatmap:
+# ✈️:
 <p align="center">
   <img alt="GitHub Jet Heatmap" src="https://raw.githubusercontent.com/Himanshuupraity/himanshuupraity/main/jet-heatmap.svg" width="100%">
 </p>
